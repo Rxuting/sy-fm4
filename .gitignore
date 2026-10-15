@@ -1,0 +1,11 @@
+# Build outputs and anything derived from Elektron firmware: never commit.
+out/
+*.syx
+*.bin
+*.raw
+*.elf
+*.o
+*.map
+engine/test_fm4
+engine/wav/
+__pycache__/
